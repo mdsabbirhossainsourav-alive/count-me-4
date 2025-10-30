@@ -17,16 +17,27 @@ thefoxisbrave
 ## Sample Output 0
 
 a - 1
+
 b - 1
+
 e - 2
+
 f - 1
+
 h - 1
+
 i - 1
+
 o - 1
+
 r - 1
+
 s - 1
+
 t - 1
+
 v - 1
+
 x - 1
 ## Sample Input 1
 
@@ -34,11 +45,17 @@ dotheyloveme
 ## Sample Output 1
 
 d - 1
+
 e - 3
+
 h - 1
+
 l - 1
+
 m - 1
+
 o - 2
+
 t - 1
 v - 1
 y - 1
